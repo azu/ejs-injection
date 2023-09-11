@@ -1,7 +1,7 @@
 # ejs is not for user defined template
 
 [EJS](https://ejs.co/) is not safe for user defined template.
-You need to use ejs as a user-defined template.
+You shoud not use ejs as a user-defined template.
 
 - [ejs/SECURITY.md at main · mde/ejs](https://github.com/mde/ejs/blob/main/SECURITY.md)
 
