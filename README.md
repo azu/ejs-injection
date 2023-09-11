@@ -16,8 +16,6 @@ Run:
 ```ejs
 $ ejs ./template_file.ejs-o ./output.html
 
-> ejs ./template_file.ejs -f data_file.json -o ./output.html
-
 {
   ...Your environment variables
 }
