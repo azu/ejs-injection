@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "ejs ./template_file.ejs-o ./output.html"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9"
+  }
+}
