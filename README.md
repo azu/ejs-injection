@@ -24,7 +24,7 @@ $ ejs ./template_file.ejs-o ./output.html
 ejs allow to run any JavaScript code in template by design.
 
 If used incorrectly, It will cause RCE(Remote Code Execution) vulnerbility.
-It is not ejs problem, It is your application problemn.
+It is not ejs problem, It is your application problem.
 
 ## references
 
