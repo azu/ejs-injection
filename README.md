@@ -14,7 +14,7 @@ Payload:
 Run:
 
 ```ejs
-$ ejs ./template_file.ejs-o ./output.html
+$ ejs ./template_file.ejs -o ./output.html
 
 {
   ...Your environment variables
